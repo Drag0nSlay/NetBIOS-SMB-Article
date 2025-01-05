@@ -44,5 +44,5 @@ Let me know your thoughts about NetBIOS!<br>
 1. [NetBIOS Wikipedia](https://en.m.wikipedia.org/wiki/NetBIOS)<br>
 2. [Microsoft Documentation on NetBIOS](https://learn.microsoft.com/en-us/windows/win32/api/_netbios/#functions)<br>
 3. [Common Vulnerabilities in NetBIOS](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=Netbios)<br>
-4. (ChatGPT)
-5. (Defronix Academy)
+4. ChatGPT
+5. Defronix Academy
