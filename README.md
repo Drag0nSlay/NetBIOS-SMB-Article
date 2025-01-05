@@ -1,3 +1,3 @@
 ## Articles  
-- [NetBIOS – Legacy Network Communication](./netbios.md)<br>
+- [NetBIOS – Legacy Network Communication](./NetBIOS.md)<br>
 -
